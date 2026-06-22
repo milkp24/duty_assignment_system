@@ -1,4 +1,4 @@
-ชื่อโปรเจกต์: ระบบจัดการการมอบหมายเวร (Duty Assignment Management System)
+ชื่อโปรเจกต์: ระบบจัดการจองเวร (Duty Assignment Management System)
 
 รายละเอียดโครงการ
 
